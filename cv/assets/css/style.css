@@ -1,0 +1,80 @@
+body{
+    /* display:-ms-flexbox; */
+    /* text-align: center; */
+    background: color(srgb red green blue);
+}
+
+.container {
+ background-color: rgba(201, 236, 236, 0.836);
+ width: 100%;
+ height: auto;
+ text-align: center;
+}
+
+.contenedor {
+    
+    text-align: left;
+   }
+
+header {
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.solid{
+    border-style: solid;
+}
+
+
+h1{
+    color:brown;
+    /* background-color: coral; */
+    font-size: 40px;
+}
+
+
+h2{
+    color:rgb(107, 124, 226);
+    background-color: rgb(183, 238, 226);
+}
+
+#parrafo{
+    text-align: end;
+}
+
+ /* comentario de otra forma */
+
+.seccion1{
+    background-color: rgb(83, 16, 16);
+    color: rgb(58, 14, 100);
+}
+
+.seccion3{
+    background-color: rgb(83, 16, 16);
+    color: rgb(58, 14, 100);
+}
+
+p#parrafoSeleccionado{
+    color:blueviolet;
+    background-color: darksalmon;
+}
+
+.stylo-fuente-distinto{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.seccion3.stylo-fuente-distinto{
+    text-align: right;
+}
+
+    /* background: linear-gradient(90deg); color: azure; color: blue 100%; */
+
+/* {img
+    width: 150px;
+    height: 150px;} */
+
+        
+    
+    
+
